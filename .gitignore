@@ -1,0 +1,7 @@
+env
+__pycache__
+projects
+responses_raw
+tests
+atividades_consolidadas.xlsx
+projetos_graphql.json
